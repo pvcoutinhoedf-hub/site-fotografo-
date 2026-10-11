@@ -13,3 +13,7 @@ Validação: faça uma requisição HTTP à página inicial e aos arquivos `styl
 O contato prepara e copia a mensagem; não envia dados. Configure um destinatário ou serviço de envio em uma tarefa posterior. Os projetos são estudos conceituais, não trabalhos de clientes.
 
 Use o checkout existente; não crie worktrees para tarefas comuns. O servidor deve ser iniciado novamente em cada ambiente: processos não fazem parte do snapshot.
+
+## Visualizar no Windows
+
+Baixe o ZIP do repositório, escolha Extrair Tudo e abra ABRIR-SITE.bat ou visualizar.html. O arquivo visualizar.html reúne CSS, JavaScript e imagens localmente; não precisa de instalação ou internet. O contato prepara a mensagem e não realiza envio direto.
